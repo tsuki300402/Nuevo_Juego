@@ -1,0 +1,10 @@
+# Project place file
+/Nuevo_Juego.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+.fake
